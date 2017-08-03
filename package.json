@@ -1,6 +1,6 @@
 {
   "name": "primo-explore-slaask",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "adds a Slaask chat widget to primo to interact with patrons over Slack.",
   "main": "index.js",
   "repository": {
