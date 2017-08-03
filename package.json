@@ -1,0 +1,24 @@
+{
+  "name": "primo-explore-slaask",
+  "version": "1.0.0",
+  "description": "adds a Slaask chat widget to primo to interact with patrons over Slack.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WatzekDigitalInitiatives/primo-explore-slaask.git"
+  },
+  "keywords": [
+    "library",
+    "catalog",
+    "discovery",
+    "primo",
+    "primo-explore",
+    "exlibris"
+  ],
+  "author": "Nick Budak <budak@lclark.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WatzekDigitalInitiatives/primo-explore-slaask/issues"
+  },
+  "homepage": "https://github.com/WatzekDigitalInitiatives/primo-explore-slaask#readme"
+}
